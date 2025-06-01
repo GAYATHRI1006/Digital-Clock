@@ -28,6 +28,6 @@ GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 - **CSS** (`style.css`) styles the layout.
 
 ## Technologies Used
-HTML5
-CSS3
-JavaScript
+1. HTML5
+2. CSS3
+3. JavaScript
